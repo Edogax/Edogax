@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner / GIF principal -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI0YXhtYm0xdGRnbjR6amxoZTQ3ZXRndWVoOTNqMGJyaDYydzd3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jLuydr7LwMHqE/giphy.gif" alt="Descripción de la imagen">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI1c2VsZTA0eXJvZXczdHc0am0zZzJyazM1ZDcyNnMzNGw1aDV3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhyE1mKgZJiUiP21T/giphy.gif" alt="Descripción de la imagen">
 
   <!-- Título -->
   <h3>𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 · 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐞𝐫 · 𝐑𝐞𝐝 𝐓𝐞𝐚𝐦 · 𝐂𝐓𝐅 𝐏𝐥𝐚𝐲𝐞𝐫</h3>
