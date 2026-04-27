@@ -19,7 +19,7 @@
   ### 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠í𝐚𝐬 𝐲 𝐡𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬
 
 <div align="center">
-<h4>⚙️ Tecnologías principales</h4>
+<h4>𝐒𝐤𝐢𝐥𝐥 𝐓𝐨𝐨𝐥𝐬</h4>
   <!-- 🧩 Tecnologías principales -->
   <img src="https://skillicons.dev/icons?i=python,rust,linux,windows,bash,github,obsidian,vscode,neovim,powershell,kali" alt=" Skills and Tools " />
   <br/><br/>
