@@ -21,7 +21,6 @@ Hola! Soy Edogax, un estudiante de Ciberseguridad. Me gusta aprender nuevas tecn
 <div align="center">
 
   <!-- 🧩 Tecnologías principales -->
-  <h4>⚙️  Skills and Tools </h4>
   <img src="https://skillicons.dev/icons?i=python,rust,linux,bash,github,vscode,neovim,powershell,kali" alt=" Skills and Tools " />
   <br/><br/>
 
