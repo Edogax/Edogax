@@ -49,13 +49,4 @@
 </p>
 
 <br/>
-
-<h2 align="center"> <img src="./img/title3.png" width="25"/> <em> Stats </em> </h2>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/0xnotkyo">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xnotkyo.png" alt="Badge" />
-  </a>
-</p>
-
 </div>
