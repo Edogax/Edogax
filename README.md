@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3>🛡️ Cybersecurity Student·Penetration Tester· Red Team·CTF Player</h3>
+  <h3> Cybersecurity Student·Penetration Tester· Red Team·CTF Player</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Edogax&label=Visitas&color=f0db4f&style=flat-square" alt="Visitas al perfil"/>
@@ -21,8 +21,8 @@ Hola! Soy Edogax, un estudiante de Ciberseguridad. Me gusta aprender nuevas tecn
 <div align="center">
 
   <!-- 🧩 Tecnologías principales -->
-  <h4>⚙️ Tecnologías principales</h4>
-  <img src="https://skillicons.dev/icons?i=python,rust,linux,bash,github,vscode,neovim,powershell,kali" alt="Tecnologías principales" />
+  <h4>⚙️  Skills and Tools </h4>
+  <img src="https://skillicons.dev/icons?i=python,rust,linux,bash,github,vscode,neovim,powershell,kali" alt=" Skills and Tools " />
   <br/><br/>
 
 
