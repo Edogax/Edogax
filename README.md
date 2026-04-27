@@ -19,7 +19,7 @@
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
 <!-- ABOUT ME -->
-<h3 align="center">### ABOUT ME</h3>
+<h3 align="center"> ABOUT ME</h3>
 
 <p align="center">
   𝐇𝐢! 𝐈'𝐦 𝐄𝐝𝐨𝐠𝐚𝐱, 𝐚 𝐜𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐬𝐭𝐮𝐝𝐞𝐧𝐭.<br/>
