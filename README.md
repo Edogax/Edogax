@@ -30,12 +30,35 @@
 <!-- Separador -->
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
-<!-- Skills -->
+<!-- Skills Section -->
 <div align="center">
 
-  <h4>𝐒𝐤𝐢𝐥𝐥 𝐓𝐨𝐨𝐥𝐬</h4>
+  <h2>⚔️ Skills & Tools</h2>
 
-  <img src="https://skillicons.dev/icons?i=python,rust,linux,windows,bash,github,obsidian,vscode,neovim,powershell,kali" alt="Skills and Tools"/>
+  <br/>
+
+  <!-- Programming -->
+  <h3>💻 Programming</h3>
+
+  <img src="https://skillicons.dev/icons?i=python,rust,bash,powershell" />
+
+  <br/><br/>
+
+  <!-- Operating Systems -->
+  <h3>🖥️ Operating Systems</h3>
+
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali" />
+
+  <br/><br/>
+
+  <!-- Security & Development -->
+  <h3>🛠️ Security & Development</h3>
+
+  <img src="https://skillicons.dev/icons?i=github,vscode,neovim,obsidian" />
+
+  <br/><br/>
+
+</div>
 
   <br/><br/>
 
