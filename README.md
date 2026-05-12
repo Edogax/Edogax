@@ -24,27 +24,21 @@
 
 <div align="center">
 
-Cybersecurity student focused on  
-Web Security • Linux • Red Teaming
+<strong>
+Cybersecurity student focused on Web Security, Linux and Red Teaming.
+</strong>
 
 <br/><br/>
 
-Solving machines on  
-Hack The Box & TryHackMe
+Learning offensive security through Hack The Box, TryHackMe and
+building tools with Rust, Python and Bash.
 
 <br/><br/>
 
-Building tools with  
-Rust • Python • Bash
+Currently exploring:
+<br/>
 
-<br/><br/>
-
-Currently exploring
-
-Web Exploitation  
-Burp Suite & PortSwigger Labs  
-Linux Privilege Escalation  
-Rust for Security Tools
+Web Exploitation • Burp Suite • Linux Privilege Escalation • Rust
 
 </div>
 
