@@ -40,7 +40,7 @@
   <!-- Programming -->
   <h3>💻 Programming</h3>
 
-  <img src="https://skillicons.dev/icons?i=python,rust,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=python,rust,bash,powershell,zed" />
 
   <br/><br/>
 
