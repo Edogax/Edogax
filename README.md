@@ -7,8 +7,6 @@
 <h3>𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 · 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐞𝐫 · 𝐑𝐞𝐝 𝐓𝐞𝐚𝐦 · 𝐂𝐓𝐅 𝐏𝐥𝐚𝐲𝐞𝐫</h3> 
 
 
-Solving machines on Hack The Box and building security-related projects.
-
   <!-- Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=Edogax&label=Visitas&color=f0db4f&style=flat-square" alt="Visitas al perfil"/>
