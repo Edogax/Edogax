@@ -4,13 +4,8 @@
   <img src="https://i.pinimg.com/originals/9a/f4/69/9af469471ae7bb623198628f22502b4e.gif" alt="Descripción de la imagen">
 
   <!-- Título -->
- Cybersecurity student focused on Web Security, Linux and Red Teaming.
+<h3>𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 · 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐞𝐫 · 𝐑𝐞𝐝 𝐓𝐞𝐚𝐦 · 𝐂𝐓𝐅 𝐏𝐥𝐚𝐲𝐞𝐫</h3> 
 
-Currently learning:
-- Web Cache Deception
-- Burp Suite
-- Active Directory
-- Rust for Security Tools
 
 Solving machines on Hack The Box and building security-related projects.
 
