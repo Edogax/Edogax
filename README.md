@@ -22,26 +22,31 @@
 <!-- ABOUT ME -->
 <h3 align="center">⚔️ ABOUT ME</h3>
 
-<p align="center">
-  Hi, I'm <strong>Edogax</strong> — a cybersecurity student focused on
-  <strong>Web Security</strong>, <strong>Linux</strong>, and <strong>Red Teaming</strong>.
-  <br/><br/>
+<div align="center">
 
-  I enjoy solving machines on <strong>Hack The Box</strong> and <strong>TryHackMe</strong>,
-  learning offensive security techniques, and building tools with
-  <strong>Rust</strong>, <strong>Python</strong>, and <strong>Bash</strong>.
-  <br/><br/>
+Cybersecurity student focused on  
+Web Security • Linux • Red Teaming
 
-  Currently exploring:
-  <br/>
-  • Web Exploitation  
-  <br/>
-  • Burp Suite & PortSwigger Labs  
-  <br/>
-  • Linux Privilege Escalation  
-  <br/>
-  • Rust for Security Tools
-</p>
+<br/><br/>
+
+Solving machines on  
+Hack The Box & TryHackMe
+
+<br/><br/>
+
+Building tools with  
+Rust • Python • Bash
+
+<br/><br/>
+
+Currently exploring
+
+Web Exploitation  
+Burp Suite & PortSwigger Labs  
+Linux Privilege Escalation  
+Rust for Security Tools
+
+</div>
 
 <!-- Separador -->
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
