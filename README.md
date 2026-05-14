@@ -46,21 +46,21 @@ Learning through labs, hands-on practice and building small tools.
   <br/>
 
   <!-- Programming -->
-  <h3>💻 Programming</h3>
+  <h3> Programming</h3>
 
   <img src="https://skillicons.dev/icons?i=python,rust,bash,powershell" />
 
   <br/><br/>
 
   <!-- Operating Systems -->
-  <h3>🖥️ Operating Systems</h3>
+  <h3> Operating Systems</h3>
 
   <img src="https://skillicons.dev/icons?i=linux,windows,kali" />
 
   <br/><br/>
 
   <!-- Security & Development -->
-  <h3>🛠️ Security & Development</h3>
+  <h3> Security & Development</h3>
 
   <img src="https://skillicons.dev/icons?i=github,vscode,neovim,obsidian" />
 
