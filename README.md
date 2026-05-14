@@ -38,7 +38,7 @@ building tools with Rust, Python and Bash.
 Currently exploring:
 <br/>
 
-Web Exploitation • Burp Suite • Linux Privilege Escalation • Rust
+Web Exploitation • Rust
 
 </div>
 
