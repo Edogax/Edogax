@@ -20,7 +20,7 @@
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
 <!-- ABOUT ME -->
-<h3 align="center">⚔️ ABOUT ME</h3>
+<h3 align="center"> ABOUT ME</h3>
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Learning through labs, hands-on practice and building small tools.
 <!-- Skills Section -->
 <div align="center">
 
-  <h2>⚔️ Skills & Tools</h2>
+  <h2> Skills & Tools</h2>
 
   <br/>
 
