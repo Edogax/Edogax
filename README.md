@@ -20,27 +20,7 @@
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
 <!-- ABOUT ME -->
-<h3 align="center">⚔️ ABOUT ME</h3>
 
-<div align="center">
-
-<strong>
-Cybersecurity student focused on Web Security, Linux and Red Teaming.
-</strong>
-
-<br/><br/>
-
-Learning offensive security through Hack The Box, TryHackMe and
-building tools with Rust, Python and Bash.
-
-<br/><br/>
-
-Currently exploring:
-<br/>
-
-Web Exploitation • Rust
-
-</div>
 
 <!-- Separador -->
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
