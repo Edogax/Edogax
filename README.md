@@ -20,6 +20,19 @@
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
 <!-- ABOUT ME -->
+<h3 align="center">⚔️ ABOUT ME</h3>
+
+<div align="center">
+
+<strong>
+Cybersecurity student interested in offensive security, Web Pentesting and Rust development.
+</strong>
+
+<br/><br/>
+
+Learning through labs, hands-on practice and building small tools.
+
+</div>
 
 
 <!-- Separador -->
